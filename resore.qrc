@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/home.svg</file>
+    <file>icon/log-out.svg</file>
+    <file>icon/menu.svg</file>
+    <file>icon/search.svg</file>
+    <file>icon/user.svg</file>
+    <file>icon/c.png</file>
+    <file>icon/java.png</file>
+    <file>icon/1709817154023.png</file>
+    <file>icon/py.jpg</file>
+    <file>icon/logo.png</file>
+  </qresource>
+  <qresource prefix="image"/>
+</RCC>
